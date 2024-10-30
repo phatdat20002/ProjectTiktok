@@ -1,0 +1,11 @@
+
+//goi y khi ~/
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "~/*": ["src/*"]
+       
+      }
+    }
+  }
